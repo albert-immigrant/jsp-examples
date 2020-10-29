@@ -1,0 +1,5 @@
+# Project exclude paths
+/WEB-INF/classes/chat/
+/WEB-INF/classes/websocket/
+/WEB-INF/jsp/
+/websocket/
